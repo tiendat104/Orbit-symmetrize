@@ -1,9 +1,7 @@
 # Rotated MNIST experiment - (our method)
 
 ## Overview
-In this repository, we provide the implementation for the two models CNN-Canonical-Orbit and CNN-PS-Orbit reported in table 1(a). <br> 
-We trained our models on three randomly selected seeds 38, 42, 49. For each seed, we report the test performance using the <br>
-sample size k among [1, 10, 20, 50] that leads to the best performance.
+In this repository, we provide the implementation for the two models CNN-Canonical-Orbit and CNN-PS-Orbit reported in table 1(a). We trained our models on three randomly selected seeds 38, 42, 49. For each seed, we report the test performance using the sample size k among [1, 10, 20, 50] that leads to the best performance.
 
 ## Running CNN-PS-Orbit (Table 1(a))
 
@@ -57,6 +55,5 @@ python inference.py --gen_z_scale 0.0 --save_dir canon_orbit --seed 49
 
 ## Trained models
 Trained model checkpoints can be found at [this link](https://drive.google.com/file/d/1kpups1xcSszySZnlkcLCk0D0bMgjQ3Jd/view?usp=sharing).
-Please unzip the orbit.zip file and put the "save" directory inside this repository. Then, you can directly <br> 
-run the above inference commands on these checkpoints.
+Please unzip the orbit.zip file and put the "save" directory inside this repository. Then, you can directly run the above inference commands on these checkpoints.
 
