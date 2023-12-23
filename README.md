@@ -8,8 +8,8 @@ NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations <br>
 ![image-lps](./docs/ps_orbit.png)
 
 ## Running experiments
-The implementation for our methods and baselines in the Rotated MniST experiment (table 1) can be found in the directory **RotatedMNIST**.
-Implementation for the Particle Scattering experiment (table 2) can be found in the directory **ParticleScattering**. Please refer to these directories for more detailed guidelines for environment setup and configurations to run those experiments. 
+The implementation for our methods and baselines in the **Rotated MniST** experiment (table 1) can be found in the directory **RotatedMNIST**.
+Implementation for the **Particle Scattering** experiment (table 2) can be found in the directory **ParticleScattering**. Please refer to these directories for more detailed guidelines for environment setup and configurations to run those experiments. 
 
 ## References
 Our implementation uses code from the following repositories:
