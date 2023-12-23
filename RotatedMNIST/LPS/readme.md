@@ -1,7 +1,7 @@
 # Rotated MNIST experiment - (LPS baseline)
 
 ## Overview
-In this repository, we provide the implementation for the two baselines CNN-PS and CNN-Canonical reported in table 1(a). We trained our models on three randomly selected seeds 38, 42, 49. For each seed, we report the test performance using the sample size k among [1, 10, 20, 50] that leads to the best performance.
+In this repository, we provide the implementation for the two baselines CNN-PS and CNN-Canonical reported in table 1(a). We trained these models on three randomly selected seeds 38, 42, 49. For each seed, we report the test performance using the sample size k among [1, 10, 20, 50] that leads to the best performance.
 
 ## Running CNN-PS (Table 1(a))
 
