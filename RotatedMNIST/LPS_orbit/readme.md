@@ -29,11 +29,11 @@ To replicate the test performance reported in the paper, please use following sa
 |---|---|
 | 38 | 10 |
 | 42 | 20 |
-| 38 | 10 |
+| 49 | 10 |
 
 For example, for the seed 38, please use the following command:
 ```bash
-python inference.py --save_dir ps_orbit --seed 38 --inference_k 10
+python inference.py --save_dir ps_orbit --inference_k 10 --seed 38
 ```
 
 ## Running CNN-Canonical-Orbit (Table 1(a))
