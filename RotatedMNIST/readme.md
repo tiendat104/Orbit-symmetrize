@@ -1,7 +1,7 @@
-# Rotated MNIST experiment (Table 1)
+# Rotated MNIST experiment (Table 1(a))
 
 ## Overview
-In this subdirectory, we provide the implementations for our method and baselines reported in the table 1 of our paper.
+In this subdirectory, we provide the implementations for our method and baselines reported in the table 1(a) of our paper.
 Implementation for the models CNN-PS-Orbit and CNN-Canonical-Orbit can be found in the subdirectory **LPS_orbit**. Implementation for the baselines CNN-PS and CNN-Canonical can be found in the subdirectory **LPS**. You can find more detailed explaination in each of these subdirectories. 
 
 ## Installation
